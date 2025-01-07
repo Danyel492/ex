@@ -18,4 +18,4 @@ Saída: "chunk"
 Entrada: (8)
 Saída: "chunk-chunk-chunk-chunk-chunk-chunk-chunk-chunk"
 Entrada: (2)
-Saída: "chunk-chunk"1   
+Saída: "chunk-chunk"
