@@ -10,4 +10,4 @@ function mediaAritimetica(...numeros) {
   return soma / numeros.length
 
 }
-console.log(mediaAritimetica(25,75))
+console.log(mediaAritimetica(10,10,10,10,10,9.2))
