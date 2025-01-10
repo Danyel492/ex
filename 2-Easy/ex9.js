@@ -1,7 +1,9 @@
 function isUniform(frase){
-    let tudo = frase.toLowerCase().split('').sort()
+    let tudo = frase.toLowerCase().replace(/\s/g,'').split('').sort()
 
-    return tudo
+    let letra = tudo[0]
+
+    return letra
 }
 
 console.log(isUniform('This is Thee')) // true
